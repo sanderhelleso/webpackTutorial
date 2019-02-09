@@ -1,0 +1,26 @@
+{
+  "name": "webpacktutorial",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sanderhelleso/webpackTutorial.git"
+  },
+  "author": "sander hellesø",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sanderhelleso/webpackTutorial/issues"
+  },
+  "homepage": "https://github.com/sanderhelleso/webpackTutorial#readme",
+  "dependencies": {
+    "prop-types": "^15.6.2",
+    "react": "^16.8.1",
+    "react-dom": "^16.8.1",
+    "react-router-dom": "^4.3.1",
+    "semantic-ui-react": "^0.85.0"
+  }
+}
